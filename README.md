@@ -14,5 +14,11 @@ npm run watch
 # para actualizar elschemade la base de datos deacuerdo al archivo schema.ts
 npm run push
 
-# hora 02:25 no olvidar hacer npm watch en api
+# nos dirijimos a la carpeta web
+npm run dev -- -p 3001
+
+# instalar shadcn en web
+npx shadcn-ui@latest init
+
+# hora video 4 hora 35
 
